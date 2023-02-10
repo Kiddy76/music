@@ -76,7 +76,7 @@ gp_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="👀 ᴀssɪsᴛᴀɴᴛ 👀️", url="http://t.me/LagXd_assistant"
+            text="👀 ᴀssɪsᴛᴀɴᴛ 👀️", url="http://t.me/LagXdxassistant"
         ),
         InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=config.OWNER_ID),
     ],
